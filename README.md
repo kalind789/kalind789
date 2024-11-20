@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning node.js and data science.
+- 📫 How to reach me: kadhika2@u.rochester.edu
+  
 <!--
 **kalind789/kalind789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
