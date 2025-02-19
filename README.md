@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 **Senior at the University of Rochester** (CS + Math)
+- 🎓 **Senior at the University of Rochester** (CS)
 - 🏗️ **Building AI-powered projects** (Check out my repositories!)
 - 🔬 **Diving into deep learning research** (Exploring LLMs, CV, NLP)
 - 🌍 **Passionate about impactful technology**
