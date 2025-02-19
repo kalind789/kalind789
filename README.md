@@ -1,13 +1,43 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Kalind</h1>
-<h3 align="center">A passionate developer exploring React, TypeScript, and Data Science 🌱</h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=40&fontAlignY=35" alt="Header" />
-</p>
+# 👋 Hey, I'm Kalind Adhikari!
 
-<h3 align="left">🚀 My Tech Stack</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-</p>
+🚀 **Machine Learning | Deep Learning | Full-Stack Development**  
+🏀 **NBA Enthusiast | Research Explorer | Always Learning**  
+
+---
+
+### 🧠 About Me
+- 🎓 **Senior at the University of Rochester** (CS + Math)
+- 🏗️ **Building AI-powered projects** (Check out my repositories!)
+- 🔬 **Diving into deep learning research** (Exploring LLMs, CV, NLP)
+- 🌍 **Passionate about impactful technology**
+- 🌟 **Love working on personal projects** (Especially NBA-related ones!)
+
+---
+
+### 📊 My Tech Stack:
+💻 **Languages:** Python, TypeScript, SQL, JavaScript  
+⚡ **ML/DL:** PyTorch, TensorFlow, Scikit-Learn  
+🛠 **Full-Stack:** React, Next.js, Node.js, Django, PostgreSQL  
+📡 **DevOps:** GitHub Actions, CI/CD, Databricks, Docker  
+📊 **Data Tools:** Pandas, NumPy, PySpark  
+
+---
+
+### 🏀 Side Projects & Interests
+🔥 **Building an NBA "Stocks" Tracker** – Player stats meet finance!  
+🤖 **Exploring AI-powered sentiment analysis for MVP predictions**  
+📊 **Always working on ML models, from classification to NLP**  
+💡 **Learning about system design and full-stack scalability**
+
+---
+
+### 📫 Let's Connect!
+🌐 **Portfolio:** *Coming Soon*  
+🐦 **Twitter/X:** [@KalindAdhikari](https://twitter.com/)  
+💼 **LinkedIn:** [Kalind Adhikari](https://www.linkedin.com/in/kalindadhikari/)  
+📂 **GitHub:** [kalind789](https://github.com/kalind789)  
+
+---
+
+🚀 _"The best way to predict the future is to create it."_  
+👀 **Always open to collaborations & discussions on ML, research, and NBA analytics!**
