@@ -11,9 +11,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
 </p>
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalind789&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalind789&theme=tokyonight" alt="Streak Stats" />
-</p>
