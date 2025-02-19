@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack
 🔹 Python, TypeScript, SQL  
-🔹 PyTorch, TensorFlow, Scikit-Learn  
+🔹 PyTorch, Scikit-Learn  
 🔹 React, Next.js, Node.js, Django, PostgreSQL  
 
 ---
