@@ -2,7 +2,7 @@
 
 🚀 **ML | Deep Learning | Full-Stack**  
 🩻 **Healthcare Aplications**    
-🏀 **NBA Enthusiast | Research Explorer**  
+🏀 **Sports Enthusiast**  
 
 ---
 
