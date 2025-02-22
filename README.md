@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Kalind!
 
 🚀 **ML | Deep Learning | Full-Stack**  
-🩻 **Healthcare Aplications** 
+🩻 **Healthcare Aplications**    
 🏀 **NBA Enthusiast | Research Explorer**  
 
 ---
